@@ -20,3 +20,4 @@ if ($result) {
 } else {
     echo "Data not inserted";
 }
+https://images.app.goo.gl/ygtCEhQUtiYF4yRB7
